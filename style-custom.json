@@ -1,0 +1,254 @@
+{
+  "font_smallest": {
+    "font-size": "10px"
+  },
+  "font_1xl": {
+    "font-size": "22px"
+  },
+  "font_1": {
+    "font-size": "15px"
+  },
+  "font_2": {
+    "font-size": "18px"
+  },
+  "font_3": {
+    "font-size": "12px"
+  },
+  "font_4": {
+    "font-size": "11px"
+  },
+  "font_5": {
+    "font-size": "14px"
+  },
+  "font_6": {
+    "font-size": "34px"
+  },
+  "font_7": {
+    "font-size": "20px"
+  },
+  "font_8": {
+    "font-size": "17px"
+  },
+  "font_base_2": {
+    "font-size": "16px"
+  },
+  "leading_11": {
+    "line-height": "128%"
+  },
+  "leading_12": {
+    "line-height": "145%"
+  },
+  "leading_13": {
+    "line-height": "150%"
+  },
+  "leading_14": {
+    "line-height": "130%"
+  },
+  "leading_15": {
+    "line-height": "18px"
+  },
+  "leading_16": {
+    "line-height": "135%"
+  },
+  "leading_17": {
+    "line-height": "160%"
+  },
+  "leading_18": {
+    "line-height": "147%"
+  },
+  "leading_19": {
+    "line-height": "117%"
+  },
+  "leading_20": {
+    "line-height": "132%"
+  },
+  "leading_21": {
+    "line-height": "125%"
+  },
+  "tracking_1": {
+    "letter-spacing": "0.35px"
+  },
+  "tracking_2": {
+    "letter-spacing": "-0.40px"
+  },
+  "tracking_3": {
+    "letter-spacing": "-0.25px"
+  },
+  "tracking_4": {
+    "letter-spacing": "0.25px"
+  },
+  "tracking_5": {
+    "letter-spacing": "-0.2px"
+  },
+  "tracking_6": {
+    "letter-spacing": "-0.08px"
+  },
+  "tracking_7": {
+    "letter-spacing": "-0.24px"
+  },
+  "tracking_8": {
+    "letter-spacing": "-0.41px"
+  },
+  "tracking_9": {
+    "letter-spacing": "-0.5px"
+  },
+  "tracking_10": {
+    "letter-spacing": "0.38px"
+  },
+  "w_120": {
+    "width": "120px"
+  },
+  "w_4_5": {
+    "width": "72px"
+  },
+  "w_64_25": {
+    "width": "260px"
+  },
+  "w_25_6": {
+    "width": "calc(25% - 6px)"
+  },
+  "w_25_9": {
+    "width": "calc(25% - 9px)"
+  },
+  "w_50_8": {
+    "width": "calc(50% - 8px)"
+  },
+  "w_1_60": {
+    "width": "calc(100% - 60px)"
+  },
+  "w_1_84": {
+    "width": "calc(100% - 84px)"
+  },
+  "w_73": {
+    "width": "19rem"
+  },
+  "w_33_8": {
+    "width": "calc((100% / 3) - 8px)"
+  },
+  "w_108": {
+    "width": "108px"
+  },
+  "h_64_25": {
+    "height": "260px"
+  },
+  "h_85": {
+    "height": "calc(100vh - 85px)"
+  },
+  "h_4_5": {
+    "height": "72px"
+  },
+  "h_134": {
+    "height": "134px"
+  },
+  "border_1": {
+    "border-width": "1px"
+  },
+  "border_gray_1": {
+    "border-color": "#E8E8EA"
+  },
+  "text_gray_1": {
+    "color": "#4A4754"
+  },
+  "font_15": {
+    "font-size": "15px"
+  },
+  "yellow_2": {
+    "color": "#E6C84C"
+  },
+  "yellow_3": {
+    "color": "#FFDE54"
+  },
+  "primary_1": {
+    "background": "#205B24"
+  },
+  "primary_2": {
+    "background": "#266D2C"
+  },
+  "primary_3": {
+    "background": "#2D7F33"
+  },
+  "primary_4": {
+    "background": "#33923A"
+  },
+  "primary_5": {
+    "background": "#3AA442"
+  },
+  "primary_6": {
+    "background": "#40B649"
+  },
+  "primary_7": {
+    "background": "#66C56D"
+  },
+  "primary_8": {
+    "background": "#8CD392"
+  },
+  "primary_9": {
+    "background": "#B3E2B6"
+  },
+  "primary_10": {
+    "background": "#C6E9C8"
+  },
+  "primary_11": {
+    "background": "#D9F0DB"
+  },
+  "primary_12": {
+    "background": "#ECF8ED"
+  },
+  "gray_2": {
+    "background": "#1D1929"
+  },
+  "gray_8": {
+    "background": "#A5A3A9"
+  },
+  "gray_4": {
+    "background": "#4A4754"
+  },
+  "gray_12": {
+    "background": "#F5F5F5"
+  },
+  "gray_1": {
+    "background": "#0F0D15"
+  },
+  "gray_3": {
+    "background": "#34303E"
+  },
+  "gray_11": {
+    "background": "#E8E8EA"
+  },
+  "orange_3": {
+    "color": "#FF6E01"
+  },
+  "orange_6": {
+    "color": "#FF9A4D"
+  },
+  "orange_9": {
+    "color": "#FFC599"
+  },
+  "red_6": {
+    "color": "#F76969"
+  },
+  "red_6_1": {
+    "color": "#FA9494"
+  },
+  "red_6_2": {
+    "color": "#FDD4D4"
+  },
+  "dark": {
+    "color": "rgba(0, 0, 0, 0.8)"
+  },
+  "dark_medium": {
+    "color": "#424242"
+  },
+  "purple": {
+    "color": "#D96FF8"
+  },
+  "green": {
+    "color": "#1EE9B6"
+  },
+  "blue": {
+    "color": "#1A50FF"
+  },
+  "pink": {
+    "color": "#FA0082"
+  }
+}
